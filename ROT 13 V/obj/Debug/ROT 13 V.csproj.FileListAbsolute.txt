@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\bin\Debug\ROT 13 V.exe.config
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\bin\Debug\ROT 13 V.exe
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\bin\Debug\ROT 13 V.pdb
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\obj\Debug\ROT 13 V.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\obj\Debug\ROT_13_V.Form1.resources
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\obj\Debug\ROT_13_V.Properties.Resources.resources
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\obj\Debug\ROT 13 V.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\obj\Debug\ROT 13 V.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\obj\Debug\ROT 13 V.exe
+C:\Users\PC\source\repos\ROT 13 V\ROT 13 V\obj\Debug\ROT 13 V.pdb
